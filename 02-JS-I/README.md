@@ -201,7 +201,7 @@ Math.ceil(6.0001) = 7;
 
 ### .length
 
-El tipo de datos "string" tiene un método incorporado llamado `.length`. Cualquier cadena que llamemos a esto devolverá la cantidad de caracteres en esa cadena.
+El tipo de datos "string" tiene un método incorporado llamado `.length`. Cualquier cadena que llamemos a esto devolverá la cantidad de caracteres en esa cadena. hgf
 
 ```javascript
 var nombreGato = 'felix';
